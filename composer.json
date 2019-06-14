@@ -9,7 +9,9 @@
         "drupal/console": "~1.0",
         "drupal/mailsystem": "^4.1",
         "drupal/swiftmailer": "^1.0@beta",
-        "drupal/simple_mail": "^1.1"
+        "drupal/simple_mail": "^1.1",
+        "ext-json": "*",
+        "ext-curl": "*"
     },
     "replace": {
         "drupal/core": "^8.7"
